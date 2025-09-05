@@ -1,0 +1,455 @@
+# GOOGLE CALENDER DESKLET FRENCH TRANSLATION.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# slgobinath, 2017
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: googleCalendar@javahelps.com 1.0\n"
+"Report-Msgid-Bugs-To: https://github.com/linuxmint/cinnamon-spices-desklets/"
+"issues\n"
+"POT-Creation-Date: 2025-04-21 23:14+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: GeekeR2\n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. settings-schema.json->interval->description
+#. desklet.js:66 desklet.js:74
+msgid "Number of days to include"
+msgstr "Liczba dni do uwzględnienia"
+
+#. desklet.js:66 desklet.js:74
+msgid ": "
+msgstr " : "
+
+#. metadata.json->name
+#. settings-schema.json->page_gcalendar->title
+#. desklet.js:126
+msgid "Google Calendar"
+msgstr "Kalendarz Google"
+
+#. desklet.js:219
+msgid "Open Google Calendar"
+msgstr "Otwórz kalendarz Google"
+
+#. desklet.js:302
+msgid "No events found"
+msgstr "Nie znaleziono wydarzeń"
+
+#. desklet.js:467
+msgid "gcalendar is not authorized"
+msgstr "gcalendar nie jest autoryzowany"
+
+#. desklet.js:469
+msgid "gcalendar token expired"
+msgstr "token gcalendar wygasł"
+
+#. desklet.js:474
+msgid "Execute: "
+msgstr "Wykonać:"
+
+#. desklet.js:487
+msgid "Unknown Error"
+msgstr "Nieznany błąd"
+
+#. desklet.js:490
+msgid "Install gcalendar to use this desklet."
+msgstr "Zainstaluj gcalendar, aby używać tego deskletu."
+
+#. desklet.js:491
+msgid "Visit: "
+msgstr "Odwiedzać:"
+
+#. desklet.js:529
+msgid "Unable to retrieve events..."
+msgstr "Nie można pobrać zdarzeń..."
+
+#. lib/utility.js:158 lib/xdate.js:350
+msgid "AM"
+msgstr "AM"
+
+#. lib/utility.js:158 lib/xdate.js:351
+msgid "PM"
+msgstr "PM"
+
+#. lib/xdate.js:346
+msgid "January"
+msgstr "Styczeń"
+
+#. lib/xdate.js:346
+msgid "February"
+msgstr "Luty"
+
+#. lib/xdate.js:346
+msgid "March"
+msgstr "Marzec"
+
+#. lib/xdate.js:346
+msgid "April"
+msgstr "Kwiecień"
+
+#. lib/xdate.js:346
+msgctxt "long"
+msgid "May"
+msgstr "Maj"
+
+#. lib/xdate.js:346
+msgid "June"
+msgstr "Czerwiec"
+
+#. lib/xdate.js:346
+msgid "July"
+msgstr "Lipiec"
+
+#. lib/xdate.js:346
+msgid "August"
+msgstr "Sierpień"
+
+#. lib/xdate.js:346
+msgid "September"
+msgstr "Wrzesień"
+
+#. lib/xdate.js:346
+msgid "October"
+msgstr "Październik"
+
+#. lib/xdate.js:346
+msgid "November"
+msgstr "Listopad"
+
+#. lib/xdate.js:346
+msgid "December"
+msgstr "Grudzień"
+
+#. lib/xdate.js:347
+msgid "Jan"
+msgstr "st."
+
+#. lib/xdate.js:347
+msgid "Feb"
+msgstr "lt."
+
+#. lib/xdate.js:347
+msgid "Mar"
+msgstr "ma."
+
+#. lib/xdate.js:347
+msgid "Apr"
+msgstr "kwie."
+
+#. lib/xdate.js:347
+msgctxt "short"
+msgid "May"
+msgstr "maj"
+
+#. lib/xdate.js:347
+msgid "Jun"
+msgstr "czerw."
+
+#. lib/xdate.js:347
+msgid "Jul"
+msgstr "lip."
+
+#. lib/xdate.js:347
+msgid "Aug"
+msgstr "sierp."
+
+#. lib/xdate.js:347
+msgid "Sep"
+msgstr "wrzes."
+
+#. lib/xdate.js:347
+msgid "Oct"
+msgstr "paźdz."
+
+#. lib/xdate.js:347
+msgid "Nov"
+msgstr "listop."
+
+#. lib/xdate.js:347
+msgid "Dec"
+msgstr "grudz."
+
+#. lib/xdate.js:348
+msgid "Sunday"
+msgstr "Niedziela"
+
+#. lib/xdate.js:348
+msgid "Monday"
+msgstr "Poniedziałek"
+
+#. lib/xdate.js:348
+msgid "Tuesday"
+msgstr "Wtorek"
+
+#. lib/xdate.js:348
+msgid "Wednesday"
+msgstr "Środa"
+
+#. lib/xdate.js:348
+msgid "Thursday"
+msgstr "Czwartek"
+
+#. lib/xdate.js:348
+msgid "Friday"
+msgstr "Piątek"
+
+#. lib/xdate.js:348
+msgid "Saturday"
+msgstr "Sobota"
+
+#. lib/xdate.js:349
+msgid "Sun"
+msgstr "Niedz."
+
+#. lib/xdate.js:349
+msgid "Mon"
+msgstr "Pon."
+
+#. lib/xdate.js:349
+msgid "Tue"
+msgstr "Wt."
+
+#. lib/xdate.js:349
+msgid "Wed"
+msgstr "Śr."
+
+#. lib/xdate.js:349
+msgid "Thu"
+msgstr "Czw."
+
+#. lib/xdate.js:349
+msgid "Fri"
+msgstr "Pt."
+
+#. lib/xdate.js:349
+msgid "Sat"
+msgstr "Sob."
+
+#. metadata.json->description
+msgid "A desklet that displays your agenda based on Google Calendar"
+msgstr "Desklet wyświetlający Twój kalendarz na podstawie kalendarza Google"
+
+#. settings-schema.json->page_style->title
+msgid "Desklet Style"
+msgstr "Styl deskletu"
+
+#. settings-schema.json->display0->description
+msgid "Google Calendar authentication"
+msgstr "Uwierzytelnianie kalendarza Google"
+
+#. settings-schema.json->clientId->description
+msgid "Client Id"
+msgstr "Identyfikator klienta"
+
+#. settings-schema.json->clientId->tooltip
+msgid ""
+"Enter your Google calendar project client id. Leave it empty to use the "
+"default client id."
+msgstr ""
+"Wprowadź identyfikator klienta projektu kalendarza Google. Pozostaw to pole puste, aby użyć domyślnego"
+"domyślny identyfikator klienta."
+
+#. settings-schema.json->clientSecret->description
+msgid "Client secret"
+msgstr "Tajemnica klienta"
+
+#. settings-schema.json->clientSecret->tooltip
+msgid ""
+"Enter your Google calendar project client secret. Leave it empty to use the "
+"default client secret."
+msgstr ""
+"Wprowadź tajny klucz klienta swojego projektu kalendarza Google. Pozostaw puste, aby użyć"
+"domyślny tajny klucz klienta."
+
+#. settings-schema.json->display1->description
+msgid "Calendar configuration"
+msgstr "Konfiguracja kalendarza"
+
+#. settings-schema.json->gcalendarAccount->description
+msgid "gcalendar Account ID"
+msgstr "Identyfikator konta gcalendar"
+
+#. settings-schema.json->gcalendarAccount->tooltip
+msgid "Enter gcalendar --account id"
+msgstr "Wprowadź gcalendar --identyfikator konta"
+
+#. settings-schema.json->gcalendarAccount->options
+msgid "default"
+msgstr "domyślny"
+
+#. settings-schema.json->allNamesButton->description
+msgid "Fill in the list bellow with the names of all my calendars"
+msgstr "Wypełnij poniższą listę nazwami wszystkich moich kalendarzy"
+
+#. settings-schema.json->allNamesButton->tooltip
+msgid ""
+"Click to fill in the list bellow with the names of all your calendars. It "
+"may take a little while."
+msgstr ""
+"Kliknij, aby wypełnić poniższą listę nazwami wszystkich swoich kalendarzy."
+"może chwilę potrwać."
+
+#. settings-schema.json->calendarNames->description
+msgid "Display these calendars:"
+msgstr "Wyświetl te kalendarze:"
+
+#. settings-schema.json->calendarNames->tooltip
+msgid "If you want to diplay a calendar, set it to TRUE (or check its box)."
+msgstr "Jeśli chcesz wyświetlić kalendarz, ustaw tę opcję na PRAWDA (lub zaznacz odpowiednie pole)."
+
+#. settings-schema.json->calendarNames->columns->title
+msgid "Calendar"
+msgstr "Kalendarz"
+
+#. settings-schema.json->calendarNames->columns->title
+msgid "Display it?"
+msgstr "Wyświetlić?"
+
+#. settings-schema.json->interval->tooltip
+msgid "Show the agenda for these number of days"
+msgstr "Pokaż harmonogram na tę liczbę dni"
+
+#. settings-schema.json->interval->units
+msgid "days"
+msgstr "dni"
+
+#. settings-schema.json->delay->description
+msgid "Update every:"
+msgstr "Aktualizuj co"
+
+#. settings-schema.json->delay->units
+msgid "minutes"
+msgstr ""
+
+#. settings-schema.json->date_format->description
+msgid "Date format"
+msgstr "Format daty"
+
+#. settings-schema.json->date_format->tooltip
+msgid "Enter the date format here"
+msgstr ""
+
+#. settings-schema.json->today_format->description
+msgid "Today format"
+msgstr "Format dzisiaj"
+
+#. settings-schema.json->today_format->tooltip
+msgid "Enter the today format here"
+msgstr ""
+
+#. settings-schema.json->tomorrow_format->description
+msgid "Tomorrow format"
+msgstr "Format jutra"
+
+#. settings-schema.json->tomorrow_format->tooltip
+msgid "Enter the tomorrow format here"
+msgstr "Wprowadź tutaj format jutra"
+
+#. settings-schema.json->use_24h_clock->description
+msgid "Use 24h clock"
+msgstr "Użyj zegara 24-godzinnego"
+
+#. settings-schema.json->use_24h_clock->tooltip
+msgid "Check to show time in 24h"
+msgstr "Zaznacz, aby wyświetlić czas w formacie 24-godzinnym"
+
+#. settings-schema.json->zoom->units
+msgid "times"
+msgstr "czasy"
+
+#. settings-schema.json->zoom->description
+msgid "Zoom by"
+msgstr "Powiększ o"
+
+#. settings-schema.json->zoom->tooltip
+msgid "Change the size of the desklet"
+msgstr "Zmień rozmiar deskletu"
+
+#. settings-schema.json->transparency->description
+msgid "Transparency"
+msgstr "Przezroczystość"
+
+#. settings-schema.json->transparency->tooltip
+msgid "Set the transparency of the desklet"
+msgstr "Ustaw przezroczystość deskletu"
+
+#. settings-schema.json->textcolor->description
+msgid "Text color"
+msgstr "Kolor tekstu"
+
+#. settings-schema.json->textcolor->tooltip
+msgid "Click the button to select a new text color"
+msgstr "Kliknij przycisk, aby wybrać nowy kolor tekstu"
+
+#. settings-schema.json->alldaytextcolor->description
+msgid "All day event text color"
+msgstr "Kolor tekstu wydarzenia całodniowego"
+
+#. settings-schema.json->alldaytextcolor->tooltip
+msgid "Click the button to select a new all day event text color"
+msgstr "Kliknij przycisk, aby wybrać nowy kolor tekstu wydarzenia całodniowego"
+
+#. settings-schema.json->bgcolor->description
+msgid "Background color"
+msgstr "Kolor tła"
+
+#. settings-schema.json->bgcolor->tooltip
+msgid "Click the button to select a new background color"
+msgstr "Kliknij przycisk, aby wybrać nowy kolor tła"
+
+#. settings-schema.json->diff_calendar->description
+msgid "Differentiate calendars"
+msgstr "Różnicowanie kalendarzy"
+
+#. settings-schema.json->diff_calendar->tooltip
+msgid "Show color bullets in front of events"
+msgstr "Wyświetlaj kolorowe punkty przed wydarzeniami"
+
+#. settings-schema.json->show_location->description
+msgid "Show location"
+msgstr "Pokaż lokalizację"
+
+#. settings-schema.json->show_location->tooltip
+msgid "Display the event location if available"
+msgstr "Wyświetl lokalizację wydarzenia, jeśli jest dostępna"
+
+#. settings-schema.json->location_color->description
+msgid "Location text color"
+msgstr "Kolor tekstu lokalizacji"
+
+#. settings-schema.json->location_color->tooltip
+msgid "Click the button to select a new location text color"
+msgstr "Kliknij przycisk, aby wybrać nowy kolor tekstu lokalizacji"
+
+#. settings-schema.json->cornerradius->units
+msgid "px"
+msgstr "px"
+
+#. settings-schema.json->cornerradius->description
+msgid "Corner radius"
+msgstr "Promień narożnika"
+
+#. settings-schema.json->cornerradius->tooltip
+msgid "Radius for rounding the desklet's corners"
+msgstr "Promień zaokrąglania narożników deskletu"
+
+#. settings-schema.json->display_mode->description
+msgid "Display mode"
+msgstr "Tryb wyświetlania"
+
+#. settings-schema.json->display_mode->options
+msgid "normal"
+msgstr "normalny"
+
+#. settings-schema.json->display_mode->options
+msgid "compact"
+msgstr "kompaktowy"
+
+#. settings-schema.json->display_mode->options
+msgid "ultra compact"
+msgstr "ultra kompaktowy"

@@ -332,7 +332,7 @@ msgstr "Format daty"
 
 #. settings-schema.json->date_format->tooltip
 msgid "Enter the date format here"
-msgstr ""
+msgstr "Wprowadź tutaj format daty"
 
 #. settings-schema.json->today_format->description
 msgid "Today format"
@@ -340,7 +340,7 @@ msgstr "Format dzisiaj"
 
 #. settings-schema.json->today_format->tooltip
 msgid "Enter the today format here"
-msgstr ""
+msgstr "Wprowadź tutaj format dzisiejszy"
 
 #. settings-schema.json->tomorrow_format->description
 msgid "Tomorrow format"
